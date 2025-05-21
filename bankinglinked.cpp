@@ -1,15 +1,14 @@
 using namespace std;
 #include <iostream>
 #include <cstring>
-
 void displaymenu1(){
     system("clear");
     cout<<"==========Banking System==========\n";
     cout<<"[1]Register\n";
     cout<<"[2]Log In\n";
     cout<<"[3]Exit\n";
-}
-
+    
+}//hello
 void displaymenu2(){
     system("clear");
     cout<<"==========banking system==========\n";
